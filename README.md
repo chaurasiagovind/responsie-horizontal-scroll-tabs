@@ -1,1 +1,1 @@
-# responsie-horizontal-scroll-tabs
+# responsive-horizontal-scroll-tabs
